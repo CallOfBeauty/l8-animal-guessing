@@ -1,0 +1,18 @@
+Question:
+Does the animal have hooves?
+
+No:
+Elephant
+0
+
+Question:
+Does the animal have stripes?
+2
+
+No:
+Horse
+0
+
+Yes:
+Zebra
+0
